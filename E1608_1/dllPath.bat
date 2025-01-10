@@ -1,0 +1,2 @@
+@ECHO OFF
+SET "PATH=/usr/local/epics/support/meascomp/bin/linux-x86_64;/usr/local/epics/support/asyn/bin/linux-x86_64;/usr/local/epics/support/scaler/bin/linux-x86_64;/usr/local/epics/support/mca/bin/linux-x86_64;/usr/local/epics/support/busy/bin/linux-x86_64;/usr/local/epics/support/autosave/bin/linux-x86_64;/usr/local/epics/support/seq-2-2-9/bin/linux-x86_64;/usr/local/epics/support/meascomp/bin/linux-x86_64;/usr/local/epics/base/bin/linux-x86_64;%PATH%"
