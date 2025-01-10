@@ -1,0 +1,11 @@
+epicsEnvSet("IOC","iocIC")
+epicsEnvSet("TOP","/usr/local/epics/support/xxx")
+epicsEnvSet("SUPPORT","/usr/local/epics/support")
+epicsEnvSet("ASYN","/usr/local/epics/support/asyn")
+epicsEnvSet("STREAM","/usr/local/epics/support/stream")
+epicsEnvSet("CALC","/usr/local/epics/support/calc")
+epicsEnvSet("IP","/usr/local/epics/support/ip")
+epicsEnvSet("EPICS_BASE","/usr/local/epics/base")
+epicsEnvSet("AUTOSAVE","/usr/local/epics/support/autosave")
+epicsEnvSet("SSCAN","/usr/local/epics/support/sscan")
+
