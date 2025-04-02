@@ -1,0 +1,143 @@
+# autosave R5.3	Automatically generated - DO NOT MODIFY - 250327-000811
+! 48 channel(s) not connected - or not all gets were successful
+BL62:cryocon:m1:setinpalarhigh -79
+BL62:cryocon:m1:setinpalarlowe 0
+BL62:cryocon:m1:setovertemp 
+#BL62:cryocon:m1:setinpacex Search Issued
+BL62:cryocon:m1:setinpalarhien 0
+BL62:cryocon:m1:setinpalarloen 1
+BL62:cryocon:m1:setinpalarlten 0
+BL62:cryocon:m1:setinpalaraud 0
+BL62:cryocon:m1:setovertemenable 0
+BL62:cryocon:m1:setloop2range 0
+BL62:cryocon:m1:setloop3range 0
+BL62:cryocon:m1:setloop4range 0
+BL62:cryocon:m1:setloop1load 0
+#BL62:cryocon:m1:setloopautostart Search Issued
+#BL62:cryocon:m1:setloopautoexit Search Issued
+#BL62:cryocon:m1:setloopautosave Search Issued
+BL62:cryocon:m1:setinpunit 1
+BL62:cryocon:m1:setinpvbi 1
+#BL62:cryocon:m1:setinpbran Search Issued
+BL62:cryocon:m1:setinpsensor 1
+BL62:cryocon:m1:setovertempsource 0
+BL62:cryocon:m1:setloopsource 0
+#BL62:cryocon:m1:setlooptype Search Issued
+BL62:cryocon:m1:setloop1range 0
+#BL62:cryocon:m1:setloopautomode Search Issued
+BL62:cryocon:m1:setloopsetp 0
+#BL62:cryocon:m1:setlooprate Search Issued
+BL62:cryocon:m1:setlooppgain 0
+BL62:cryocon:m1:setloopigain 0
+BL62:cryocon:m1:setloopdgain 0
+BL62:cryocon:m1:setlooppman 0
+#BL62:cryocon:m1:setloopmaxs Search Issued
+#BL62:cryocon:m1:setloopmaxp Search Issued
+#BL62:cryocon:m1:setloopautodelt Search Issued
+#BL62:cryocon:m1:setloopautotim Search Issued
+BL62:cryocon:m2:setinpalarhigh 210
+BL62:cryocon:m2:setinpalarlowe 0
+BL62:cryocon:m2:setovertemp 
+#BL62:cryocon:m2:setinpacex Search Issued
+BL62:cryocon:m2:setinpalarhien 1
+BL62:cryocon:m2:setinpalarloen 1
+BL62:cryocon:m2:setinpalarlten 0
+BL62:cryocon:m2:setinpalaraud 0
+BL62:cryocon:m2:setovertemenable 0
+BL62:cryocon:m2:setloop2range 0
+BL62:cryocon:m2:setloop3range 0
+BL62:cryocon:m2:setloop4range 0
+BL62:cryocon:m2:setloop1load 0
+#BL62:cryocon:m2:setloopautostart Search Issued
+#BL62:cryocon:m2:setloopautoexit Search Issued
+#BL62:cryocon:m2:setloopautosave Search Issued
+BL62:cryocon:m2:setinpunit 0
+BL62:cryocon:m2:setinpvbi 1
+#BL62:cryocon:m2:setinpbran Search Issued
+BL62:cryocon:m2:setinpsensor 2
+BL62:cryocon:m2:setovertempsource 0
+BL62:cryocon:m2:setloopsource 0
+#BL62:cryocon:m2:setlooptype Search Issued
+BL62:cryocon:m2:setloop1range 0
+#BL62:cryocon:m2:setloopautomode Search Issued
+BL62:cryocon:m2:setloopsetp 0
+#BL62:cryocon:m2:setlooprate Search Issued
+BL62:cryocon:m2:setlooppgain 0
+BL62:cryocon:m2:setloopigain 0
+BL62:cryocon:m2:setloopdgain 0
+BL62:cryocon:m2:setlooppman 0
+#BL62:cryocon:m2:setloopmaxs Search Issued
+#BL62:cryocon:m2:setloopmaxp Search Issued
+#BL62:cryocon:m2:setloopautodelt Search Issued
+#BL62:cryocon:m2:setloopautotim Search Issued
+BL62:cryocon:m3:setinpalarhigh 0
+BL62:cryocon:m3:setinpalarlowe 0
+BL62:cryocon:m3:setovertemp 
+#BL62:cryocon:m3:setinpacex Search Issued
+BL62:cryocon:m3:setinpalarhien 0
+BL62:cryocon:m3:setinpalarloen 0
+BL62:cryocon:m3:setinpalarlten 0
+BL62:cryocon:m3:setinpalaraud 0
+BL62:cryocon:m3:setovertemenable 0
+BL62:cryocon:m3:setloop2range 0
+BL62:cryocon:m3:setloop3range 0
+BL62:cryocon:m3:setloop4range 0
+BL62:cryocon:m3:setloop1load 0
+#BL62:cryocon:m3:setloopautostart Search Issued
+#BL62:cryocon:m3:setloopautoexit Search Issued
+#BL62:cryocon:m3:setloopautosave Search Issued
+BL62:cryocon:m3:setinpunit 0
+BL62:cryocon:m3:setinpvbi 0
+#BL62:cryocon:m3:setinpbran Search Issued
+BL62:cryocon:m3:setinpsensor 0
+BL62:cryocon:m3:setovertempsource 0
+BL62:cryocon:m3:setloopsource 0
+#BL62:cryocon:m3:setlooptype Search Issued
+BL62:cryocon:m3:setloop1range 0
+#BL62:cryocon:m3:setloopautomode Search Issued
+BL62:cryocon:m3:setloopsetp 0
+#BL62:cryocon:m3:setlooprate Search Issued
+BL62:cryocon:m3:setlooppgain 0
+BL62:cryocon:m3:setloopigain 0
+BL62:cryocon:m3:setloopdgain 0
+BL62:cryocon:m3:setlooppman 0
+#BL62:cryocon:m3:setloopmaxs Search Issued
+#BL62:cryocon:m3:setloopmaxp Search Issued
+#BL62:cryocon:m3:setloopautodelt Search Issued
+#BL62:cryocon:m3:setloopautotim Search Issued
+BL62:cryocon:m4:setinpalarhigh 0
+BL62:cryocon:m4:setinpalarlowe 0
+BL62:cryocon:m4:setovertemp 
+#BL62:cryocon:m4:setinpacex Search Issued
+BL62:cryocon:m4:setinpalarhien 0
+BL62:cryocon:m4:setinpalarloen 0
+BL62:cryocon:m4:setinpalarlten 0
+BL62:cryocon:m4:setinpalaraud 0
+BL62:cryocon:m4:setovertemenable 0
+BL62:cryocon:m4:setloop2range 0
+BL62:cryocon:m4:setloop3range 0
+BL62:cryocon:m4:setloop4range 0
+BL62:cryocon:m4:setloop1load 0
+#BL62:cryocon:m4:setloopautostart Search Issued
+#BL62:cryocon:m4:setloopautoexit Search Issued
+#BL62:cryocon:m4:setloopautosave Search Issued
+BL62:cryocon:m4:setinpunit 0
+BL62:cryocon:m4:setinpvbi 0
+#BL62:cryocon:m4:setinpbran Search Issued
+BL62:cryocon:m4:setinpsensor 0
+BL62:cryocon:m4:setovertempsource 0
+BL62:cryocon:m4:setloopsource 0
+#BL62:cryocon:m4:setlooptype Search Issued
+BL62:cryocon:m4:setloop1range 0
+#BL62:cryocon:m4:setloopautomode Search Issued
+BL62:cryocon:m4:setloopsetp 0
+#BL62:cryocon:m4:setlooprate Search Issued
+BL62:cryocon:m4:setlooppgain 0
+BL62:cryocon:m4:setloopigain 0
+BL62:cryocon:m4:setloopdgain 0
+BL62:cryocon:m4:setlooppman 0
+#BL62:cryocon:m4:setloopmaxs Search Issued
+#BL62:cryocon:m4:setloopmaxp Search Issued
+#BL62:cryocon:m4:setloopautodelt Search Issued
+#BL62:cryocon:m4:setloopautotim Search Issued
+<END>
