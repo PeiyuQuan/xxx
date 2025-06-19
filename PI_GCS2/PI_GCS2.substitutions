@@ -1,0 +1,35 @@
+file "$(MOTOR)/motorApp/Db/asyn_motor.db"
+{
+pattern
+{P,        M,            DTYP,    PORT, ADDR,      DESC,  EGU,  DIR,  VELO,  VBAS,  ACCL,  BDST,  BVEL,  BACC,  MRES,  PREC,  DHLM,  DLLM,  INIT}
+{BL62:pigcs2:,  "m1",  "asynMotor",  "C885",    0,  "Motor 1", mm,  Pos,     5,     0,    .2,    0,      1,    .2,  0.0001,  4,     13.0,   -13.0,  ""}
+{BL62:pigcs2:,  "m2",  "asynMotor",  "C885",    1,  "Motor 2", mm,  Pos,     5,     0,    .2,    0,      1,    .2,  0.0001,  4,     13.0,   -13.0,  ""}
+{BL62:pigcs2:,  "m3",  "asynMotor",  "C885",    2,  "Motor 3", mm,  Pos,     5,     0,    .2,    0,      1,    .2,  0.0001,  4,     13.0,   -13.0,  ""}
+{BL62:pigcs2:,  "m4",  "asynMotor",  "C885",    3,  "Motor 4", mm,  Pos,     5,     0,    .2,    0,      1,    .2,  0.0001,  4,     13.0,   -13.0,  ""}
+{BL62:pigcs2:,  "m5",  "asynMotor",  "C885",    4,  "Motor 5", mm,  Pos,     5,     0,    .2,    0,      1,    .2,  0.0001,  4,     26.0,   -26.0,  ""}
+{BL62:pigcs2:,  "m6",  "asynMotor",  "C885",    5,  "Motor 6", mm,  Pos,     5,     0,    .2,    0,      1,    .2,  0.0001,  4,     26.0,   -26.0,  ""}
+
+}
+
+#file "$(TOP)/db/PI_Support.db"
+#{
+#pattern
+#{P,          M,     PORT,    ADDR,    TIMEOUT }
+#{pigcs2:,  "m1:",  "C867",     0,         1   }
+#{pigcs2:,  "m2:",  "C867",     1,         1   }
+#}
+
+#file "$(TOP)/db/PI_SupportCL.db"
+#{
+#pattern
+#{P,          M,     PORT,    ADDR,    TIMEOUT }
+#{pigcs2:,  "m1:",  "C867",     0,         1   }
+#{pigcs2:,  "m2:",  "C867",     1,         1   }
+#}
+
+#file "$(TOP)/db/PI_SupportError.db"
+#{
+#pattern
+#{P,           PORT  }
+#{pigcs2:,    "C867" }
+#}
