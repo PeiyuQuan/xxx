@@ -1,0 +1,7 @@
+# Motor record settings
+# Real motors
+file "motor_settings.req" P=$(P), M=m1
+file "motor_settings.req" P=$(P), M=m2
+file "motor_settings.req" P=$(P), M=m3
+file "motor_settings.req" P=$(P), M=m4
+
