@@ -1,0 +1,21 @@
+<settings>
+    <proxies>
+        <proxy>
+            <id>httpproxy</id>
+            <active>true</active>
+            <protocol>http</protocol>
+            <host>134.79.44.163</host>
+            <port>3128</port>
+            <nonProxyHosts>local.net|some.host.com</nonProxyHosts>
+        </proxy>
+    <proxy>
+            <id>httpsproxy</id>
+            <active>true</active>
+            <protocol>https</protocol>
+            <host>134.79.44.163</host>
+            <port>3128</port>
+            <nonProxyHosts>local.net|some.host.com</nonProxyHosts>
+        </proxy>
+    
+    </proxies>
+</settings>
